@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pros-cons-app/static/css/main.16495d99.chunk.css",
+    "main.js": "/pros-cons-app/static/js/main.ce4df8ae.chunk.js",
+    "main.js.map": "/pros-cons-app/static/js/main.ce4df8ae.chunk.js.map",
+    "runtime-main.js": "/pros-cons-app/static/js/runtime-main.1035725a.js",
+    "runtime-main.js.map": "/pros-cons-app/static/js/runtime-main.1035725a.js.map",
+    "static/js/2.3f4a4cf3.chunk.js": "/pros-cons-app/static/js/2.3f4a4cf3.chunk.js",
+    "static/js/2.3f4a4cf3.chunk.js.map": "/pros-cons-app/static/js/2.3f4a4cf3.chunk.js.map",
+    "index.html": "/pros-cons-app/index.html",
+    "static/css/main.16495d99.chunk.css.map": "/pros-cons-app/static/css/main.16495d99.chunk.css.map",
+    "static/js/2.3f4a4cf3.chunk.js.LICENSE.txt": "/pros-cons-app/static/js/2.3f4a4cf3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1035725a.js",
+    "static/js/2.3f4a4cf3.chunk.js",
+    "static/css/main.16495d99.chunk.css",
+    "static/js/main.ce4df8ae.chunk.js"
+  ]
+}
